@@ -157,4 +157,9 @@
     <string name="theme">Theme</string>
     <string name="theme_change_confirm">Do you want to change to that theme?</string>
     <string name="puchase_header">Remove AD</string>
+    <string name="reward_video_cooltime_message">You can not watch video continuously</string>
+    <string name="reward_video_start_confirm_message">Would you like to add a premium time to your video ad?</string>
+    <string name="billing_prepare_fail_message">Payment preparation failed</string>
+    <string name="billing_failed">Billing failed</string>
+    <string name="reward_complete">Premium hours added 24 hours</string>
 </resources>
