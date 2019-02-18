@@ -162,4 +162,5 @@
     <string name="billing_prepare_fail_message">Payment preparation failed</string>
     <string name="billing_failed">Billing failed</string>
     <string name="reward_complete">Premium hours added 24 hours</string>
+    <string name="thanks_to_puchase">Thank you for your purchase</string>
 </resources>
