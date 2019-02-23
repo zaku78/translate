@@ -163,4 +163,5 @@
     <string name="billing_failed">결제에 실패 했습니다</string>
     <string name="reward_complete">프리미엄 시간이 24시간 추가되었습니다</string>
     <string name="thanks_to_puchase">Thank you for your purchase</string>
+    <string name="translate">Translate</string>
 </resources>
