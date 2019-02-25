@@ -144,15 +144,15 @@
     <string name="more">더보기</string>
     <string name="custom_order">사용자 순서</string>
     <string name="update">업데이트</string>
-    <string name="alarms">Alarms</string>
-    <string name="please_select_the_day_of_the_week">Please select the day of the week.</string>
-    <string name="please_select_a_date">Please select a date</string>
+    <string name="alarms">알림</string>
+    <string name="please_select_the_day_of_the_week">요일을 선택해 주세요</string>
+    <string name="please_select_a_date">날짜를 선택해 주세요</string>
     <string name="alarm_time_format" formatted="false">%02d:%02d</string>
     <string name="done">완료</string>
     <string name="fail">실패</string>
     <string name="noti_channel_name">할일 알림</string>
     <string name="noti_channel_desc">할일을 노티피케이션에서 보고 완료/실패 표시할 수 있습니다</string>
-    <string name="view_styles">View styles</string>
+    <string name="view_styles">보기 방식</string>
     <string name="backup_restore">Backup/Restore</string>
     <string name="theme">테마 변경</string>
     <string name="theme_change_confirm">해당 테마로 변경 하시겠습니까?</string>
@@ -162,6 +162,10 @@
     <string name="billing_prepare_fail_message">결제 준비에 실패 했습니다</string>
     <string name="billing_failed">결제에 실패 했습니다</string>
     <string name="reward_complete">프리미엄 시간이 24시간 추가되었습니다</string>
-    <string name="thanks_to_puchase">Thank you for your purchase</string>
+    <string name="thanks_to_puchase">구매해 주셔서 감사합니다</string>
     <string name="translate">Translate</string>
+    <string name="rate_it_request">앱을 잘 사용하고 계시다면 리뷰를 남겨주세요</string>
+    <string name="no_thanks">괜찮아요</string>
+    <string name="later">나중에</string>
+    <string name="rate_now">하기</string>
 </resources>
