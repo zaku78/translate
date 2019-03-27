@@ -180,4 +180,7 @@
     <string name="no_thanks">No Thanks</string>
     <string name="later">Later</string>
     <string name="rate_now">Rate Now</string>
+    <string name="show_tasks">Show tasks</string>
+    <string name="show_habits">Show habits</string>
+    <string name="show_schedule">Show schedule</string>
 </resources>

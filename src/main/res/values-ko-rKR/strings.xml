@@ -168,4 +168,7 @@
     <string name="no_thanks">괜찮아요</string>
     <string name="later">나중에</string>
     <string name="rate_now">하기</string>
+    <string name="show_tasks">할일 보이기</string>
+    <string name="show_habits">습관 보이기</string>
+    <string name="show_schedule">일정 보이기</string>
 </resources>
